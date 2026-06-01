@@ -1,0 +1,27 @@
+# Python
+__pycache__/
+*.pyc
+*.pyo
+.env
+*.png
+*.txt
+*.docx
+
+# Model ve DB (büyük dosyalar)
+model.pkl
+uyku_veritabani.db
+
+# Frontend
+frontend/node_modules/
+frontend/dist/
+
+# IDE
+.vscode/
+.idea/
+
+# Veri seti (opsiyonel, büyükse)
+data/
+
+# OS
+.DS_Store
+Thumbs.db
